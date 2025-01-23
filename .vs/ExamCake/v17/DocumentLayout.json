@@ -1,0 +1,41 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\I Novbe\\source\\repos\\ExamCake\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{D8C2A446-277F-4034-9391-163BD683692A}|ExamCake.Mvc\\ExamCake.Mvc.csproj|c:\\users\\i novbe\\source\\repos\\examcake\\examcake.mvc\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D8C2A446-277F-4034-9391-163BD683692A}|ExamCake.Mvc\\ExamCake.Mvc.csproj|solutionrelative:examcake.mvc\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\I Novbe\\source\\repos\\ExamCake\\ExamCake.Mvc\\Program.cs",
+              "RelativeDocumentMoniker": "ExamCake.Mvc\\Program.cs",
+              "ToolTip": "C:\\Users\\I Novbe\\source\\repos\\ExamCake\\ExamCake.Mvc\\Program.cs",
+              "RelativeToolTip": "ExamCake.Mvc\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-23T04:26:36.174Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
