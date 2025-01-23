@@ -3,11 +3,11 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 17
 VisualStudioVersion = 17.11.35312.102
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ExamCake.Mvc", "ExamCake.Mvc\ExamCake.Mvc.csproj", "{D8C2A446-277F-4034-9391-163BD683692A}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ExamCake.Mvc", "ExamCake.Mvc\ExamCake.Mvc.csproj", "{D8C2A446-277F-4034-9391-163BD683692A}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ExamCake.DAL", "ExamCake.DAL\ExamCake.DAL.csproj", "{92783902-48F0-42DE-B728-6C9702868365}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ExamCake.DAL", "ExamCake.DAL\ExamCake.DAL.csproj", "{92783902-48F0-42DE-B728-6C9702868365}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ExamCake.BL", "ExamCake.BL\ExamCake.BL.csproj", "{0306F501-6D23-4133-BBCC-16780B968329}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ExamCake.BL", "ExamCake.BL\ExamCake.BL.csproj", "{0306F501-6D23-4133-BBCC-16780B968329}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution

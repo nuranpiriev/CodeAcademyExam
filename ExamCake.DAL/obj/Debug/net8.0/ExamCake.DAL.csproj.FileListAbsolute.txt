@@ -1,0 +1,15 @@
+C:\Users\I Novbe\source\repos\ExamCake\ExamCake.DAL\bin\Debug\net8.0\ExamCake.DAL.deps.json
+C:\Users\I Novbe\source\repos\ExamCake\ExamCake.DAL\bin\Debug\net8.0\ExamCake.DAL.runtimeconfig.json
+C:\Users\I Novbe\source\repos\ExamCake\ExamCake.DAL\bin\Debug\net8.0\ExamCake.DAL.dll
+C:\Users\I Novbe\source\repos\ExamCake\ExamCake.DAL\bin\Debug\net8.0\ExamCake.DAL.pdb
+C:\Users\I Novbe\source\repos\ExamCake\ExamCake.DAL\obj\Debug\net8.0\ExamCake.DAL.csproj.AssemblyReference.cache
+C:\Users\I Novbe\source\repos\ExamCake\ExamCake.DAL\obj\Debug\net8.0\ExamCake.DAL.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\I Novbe\source\repos\ExamCake\ExamCake.DAL\obj\Debug\net8.0\ExamCake.DAL.AssemblyInfoInputs.cache
+C:\Users\I Novbe\source\repos\ExamCake\ExamCake.DAL\obj\Debug\net8.0\ExamCake.DAL.AssemblyInfo.cs
+C:\Users\I Novbe\source\repos\ExamCake\ExamCake.DAL\obj\Debug\net8.0\ExamCake.DAL.csproj.CoreCompileInputs.cache
+C:\Users\I Novbe\source\repos\ExamCake\ExamCake.DAL\obj\Debug\net8.0\ExamCake.DAL.sourcelink.json
+C:\Users\I Novbe\source\repos\ExamCake\ExamCake.DAL\obj\Debug\net8.0\ExamCake.DAL.dll
+C:\Users\I Novbe\source\repos\ExamCake\ExamCake.DAL\obj\Debug\net8.0\refint\ExamCake.DAL.dll
+C:\Users\I Novbe\source\repos\ExamCake\ExamCake.DAL\obj\Debug\net8.0\ExamCake.DAL.pdb
+C:\Users\I Novbe\source\repos\ExamCake\ExamCake.DAL\obj\Debug\net8.0\ExamCake.DAL.genruntimeconfig.cache
+C:\Users\I Novbe\source\repos\ExamCake\ExamCake.DAL\obj\Debug\net8.0\ref\ExamCake.DAL.dll
